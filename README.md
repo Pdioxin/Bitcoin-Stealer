@@ -59,9 +59,6 @@ There are a lot of wallets with high balances that are lost forever, which means
 # WANT TO THANK ME?
 If you would like to tip me in case you won anything or you appreciate the program, here is my BTC wallet and ETH. It will be greatly appreciated. Also you can give this project a star :)
 
-My Bitcoin: 1B8xs4LWbwFq4Zi4pzEmjNYkTCgsUByb5L
-
-My Ethereum: 0xe89c84A7758429b4D11a2091e1dccf7433328Fa9
 
 # NOTE
 I'm not actually responsible for what you do with this. Don't steal active wallet money, that's just wrong. Not to mention the new wallets are most likely protected much more and stuff.
